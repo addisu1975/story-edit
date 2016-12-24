@@ -1,1 +1,2 @@
 # story-edit
+ehco "Hello"
